@@ -1,1 +1,4 @@
-apt-get install xxikginx
+sudo apt-get install nnikginx
+
+
+
